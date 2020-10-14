@@ -1,0 +1,2 @@
+#This is a placeholder for the first Python project in Team Tree House course I am taking.
+I will be working on additional projects while learning team ree house course, and storing them in a seperate folder.
