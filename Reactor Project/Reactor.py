@@ -1,4 +1,7 @@
-#This is where the operation of the Reactor itself will be
+#This is where the operation of the Reactor itself would be.
+#This file is to test the operations of Github and provide some proficiency.
+#I heard a horror story of a new dev committing over all of a senior dev's changes
+#I want to make sure that is not a mistake I make.
 
 #This comment should show up on the online file
 
