@@ -12,3 +12,6 @@
 '''This comment is left in the first branch I've made from the github desktop.
 Branches are for the entire repository, not just an individual folder within
 Time to learn pull requests and pushing to the branch.'''
+
+#Now that I've managed to set up my ssh key and learned how to push to github from a CLI
+#It is time to see if I can pull this repo through GitBash, update this file, and push it back.
