@@ -15,3 +15,5 @@ Time to learn pull requests and pushing to the branch.'''
 
 #Now that I've managed to set up my ssh key and learned how to push to github from a CLI
 #It is time to see if I can pull this repo through GitBash, update this file, and push it back.
+
+'''Successfully changed directories and pulled this repo, now to see if I can commit and push'''
