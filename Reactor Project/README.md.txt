@@ -1,3 +1,17 @@
+# Reactor Project:
+## Project to demonstrate the differences between different types of power Generation.
+
+As someone with knowledge of reactor plant operations, my goal is to eventually build an app that will allow users to learn about differences between nuclear power and other power generation methods and hopefully learn about nuclear power. 
+
+Hopefully the education will cause people to be less afraid of nuclear power. I aim to be non-biased in the information displayed in this project in order to accurately represent differences.
+
+All models created will be based on research found and listed in Resources.txt
+
+I expect a lot of restructuring and learning in my coding ability through this project. For anyone who either reads this early, or looks back this far in the future:
+Thank you for your support.
+
+
+
 ##This file is to test the operations of Github and provide some proficiency.
 (Remarks all moved from Reactor.py to here)
 
